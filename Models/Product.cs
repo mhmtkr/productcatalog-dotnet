@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace YourProject.Models
+namespace Projects.Models
 {
     // Represents a product in the product catalog
     public class Product

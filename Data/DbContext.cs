@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 
-namespace YourProjectName.Data
+namespace Projects.Data
 {
     public class DbContext : Microsoft.EntityFrameworkCore.DbContext
     {
